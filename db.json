@@ -1,74 +1,75 @@
 {
-    "users":[{
-        "id":1,
-        "name":"Ammu",
-        "age":18,
-        "salary":1000,
-        "Address":"Tvm"
-
+  "users": [
+    {
+      "id": 1,
+      "name": "Ammu",
+      "age": 18,
+      "salary": 1000,
+      "Address": "Tvm"
     },
-{
-    "id":2,
-    "name":"Arun",
-    "age":21,
-    "salary":2000,
-    "Address":"Attingal"
-},
-{
-    "id":3,
-    "name":"Akhil",
-    "age":20,
-    "salary":3000,
-    "Address":"Kollam"
-},
-{
-    "id":4,
-    "name":"Sajitha",
-    "age":21,
-    "salary":5000,
-    "Address":"kallambalam"
-},
-{
-    "id":5,
-    "name":"Azif",
-    "age":25,
-    "salary":6000,
-    "Address":"Sreekarym"
-},
-{
-    "id":6,
-    "name":"Priya",
-    "age":22,
-    "salary":2000,
-    "Address":"varkala"
-},
-{
-    "id":7,
-    "name":"Lallu",
-    "age":22,
-    "salary":5000,
-    "Address":"Kollam"
-},
-{
-    "id":8,
-    "name":"Shamseena",
-    "age":23,
-    "salary":4000,
-    "Address":"Kaniyapuram"
-},
-{
-    "id":9,
-    "name":"Arsha",
-    "age":22,
-    "salary":2000,
-    "Address":"Paripally"
-},
-{
-    "id":10,
-    "name":"Adithya",
-    "age":22,
-    "salary":5000,
-    "Address":"Kollam"
-}
-]
+    {
+      "id": 2,
+      "name": "Arun",
+      "age": 21,
+      "salary": 2000,
+      "Address": "Attingal"
+    },
+    {
+      "id": 3,
+      "name": "Akhil",
+      "age": 20,
+      "salary": 3000,
+      "Address": "Kollam"
+    },
+    {
+      "id": 4,
+      "name": "Sajitha",
+      "age": 21,
+      "salary": 5000,
+      "Address": "kallambalam"
+    },
+    {
+      "id": 5,
+      "name": "Azif",
+      "age": 25,
+      "salary": 6000,
+      "Address": "Sreekarym"
+    },
+    {
+      "id": 6,
+      "name": "Priya",
+      "age": 22,
+      "salary": 2000,
+      "Address": "varkala"
+    },
+    {
+      "id": 7,
+      "name": "Lallu",
+      "age": 22,
+      "salary": 5000,
+      "Address": "Kollam"
+    },
+    {
+      "id": 8,
+      "name": "Shamseena",
+      "age": 23,
+      "salary": 4000,
+      "Address": "Kaniyapuram"
+    },
+    {
+      "id": 9,
+      "name": "Arsha",
+      "age": 22,
+      "salary": 2000,
+      "Address": "Paripally"
+    },
+    {
+      "id": 10,
+      "name": "Adithya",
+      "age": 22,
+      "salary": 5000,
+      "Address": "Kollam"
+    }
+    
+  ]
 }
