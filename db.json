@@ -2,9 +2,9 @@
   "category":{
     "work":[{
         
-        "name":"w0rk1",
-        "desc":"abc",
-        "time":"10"
+        "name":"Meeting with a client",
+        "desc":"John doe from Techx company",
+        "time":"12.00-13.00"
 
       }],
       "home":[{
