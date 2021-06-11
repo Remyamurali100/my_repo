@@ -1,7 +1,20 @@
 {
-  "category": {
-    "name": "meeting",
-    "desc": "abcd",
-    "time": "12"
+  "category":{
+    "work":[{
+        
+        "name":"w0rk1",
+        "desc":"abc",
+        "time":"10"
+
+      }],
+      "home":[{
+          "name":"work2",
+          "desc":"asd",
+          "time":"12"
+      }],
+      "other":[{
+        "name":"work3",
+        "desc":"dff",
+        "time":"11"
+      }]
   }
-}
